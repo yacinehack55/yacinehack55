@@ -41,9 +41,8 @@ Check my latest projects on my GitHub profile 👉 [github.com/yacinehack55](htt
 <details>
   <summary>📬 Cryptocurrency Wallets</summary>
 
-| Currency        | Wallet Address                                                                 |
-|----------------|----------------------------------------------------------------------------------|                                  |
-| USDT (TRC-20)  | `TTJgGmTKEcaCHqqtFHkvsDAZwvkwBvuZ91`                                              |
+| Currency        | Wallet Address 
+| USDT (TRC-20)  | `TTJgGmTKEcaCHqqtFHkvsDAZwvkwBvuZ91`                                             
 
 </details>
 
