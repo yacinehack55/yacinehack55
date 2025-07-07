@@ -1,44 +1,61 @@
-Hey 👋 Welcome to my GitHub space!
 
-I’m a tech enthusiast with a solid background in IT support, passionate about solving technical problems and constantly exploring new areas in the digital world. My current focus is on enhancing my skills in front-end development, system performance tuning, and modern digital strategies.
-
-🎯 Currently building interactive front-end experiences.
-
-📚 Actively learning Git workflows, and SEO fundamentals, and html,css,javascript,react,ui/ux design
-
-🚀 Why collaborate with me?
-
-- I merge technical precision with creative thinking to deliver polished, custom-built solutions.
-- I’m committed to quality, timelines, and delivering real value.
-- I don’t just complete tasks — I bring ideas to life.
-
-🤝 Always open to working on exciting new projects. If you have a vision, let’s build it together!
-
-💬 You can talk to me about Front-End Web Development, SEO strategy, or Digital Tech in general.
-
-⚡ A thought to share:  
-“Code is like humor. When you have to explain it, it’s bad.” — Cory House
+![Profile views](https://komarev.com/ghpvc/?username=yacinehack55&color=blue&style=flat)
+![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-blue)
+![Learning Cybersecurity](https://img.shields.io/badge/Learning-Cybersecurity-orange)
+![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-purple)
 
 ---
 
-### 🔗 Connect with me:
-**Yacine Aqqouni**  
-[GitHub](https://github.com/yacinehack55)
+## 🛠️ 0x00 > My Skillset
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,github,linux,windows,vscode&perline=7)](https://skillicons.dev)
+
+- ✅ Strong in HTML & CSS  
+- 🎯 Practicing daily via Frontend Mentor challenges  
+- 📦 Learning Git, GitHub, and responsive design  
+- 🔐 Interested in Cybersecurity (CompTIA Security+ track soon)  
+- 🤖 Exploring AI + Automation tools for real-world business needs
 
 ---
 
-### 🛠️ Tools & Technologies:
-`HTML5` • `CSS3` • `JavaScript` • `React` • `PHP` • `Git\` • `Linux` • `Photoshop` • `Figma` • `UI/UX Design`
+## 🚀 0x01 > My GitHub Projects
 
+Check my latest projects on my GitHub profile 👉 [github.com/yacinehack55](https://github.com/yacinehack55)
+
+> Projects from Frontend Mentor challenges and custom personal projects will be added regularly. Stay tuned!
 
 ---
 
-### ☕ Support Me
+## 📊 0x02 > GitHub Stats & Activity
 
-If you find my work helpful and want to support what I do, you can send **USDT** ❤️
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinehack55&layout=compact&theme=tokyonight)
 
-**USDT Address (TRC20):**  
-`TTJgGmTKEcaCHqqtFHkvsDAZwvkwBvuZ91`
+![yacinehack55 GitHub stats](https://github-readme-stats.vercel.app/api?username=yacinehack55&show_icons=true&theme=tokyonight)
 
-Thanks in advance — your support means a lot! 🙌
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yacinehack55&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## ☕ 0x03 > Support My Work
+
+<details>
+  <summary>📬 Cryptocurrency Wallets</summary>
+
+| Currency        | Wallet Address                                                                 |
+|----------------|----------------------------------------------------------------------------------|                                  |
+| USDT (TRC-20)  | `TTJgGmTKEcaCHqqtFHkvsDAZwvkwBvuZ91`                                              |
+
+</details>
+
+---
+
+## 🌐 0x04 > Connect With Me
+
+- 🐦 Facebook / F: [@yacine.agouni.7](https://web.facebook.com/yacine.agouni.7)  
+- 💻 Frontend Mentor: [Yacinehack55](https://www.frontendmentor.io/profile/yacinehack55)  
+- 🧠 GitHub: [github.com/Yacinehack55](https://github.com/yacinehack55)
+
+---
+
+
+
